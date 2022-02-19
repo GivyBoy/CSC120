@@ -51,12 +51,5 @@ public class Bakery {
 
         System.out.println("Thank you for coming. See you soon!");
 
-
-
-
-
-
-
-
     }
 }
